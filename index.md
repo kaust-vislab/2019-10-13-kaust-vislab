@@ -440,7 +440,7 @@ please preview your site before committing, and make sure to run
       </article>
     </div>
   </div>
-</div> {% comment %} End of 'Python' section. {% endcomment %}
+</div>
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R (Optional)</h3>
