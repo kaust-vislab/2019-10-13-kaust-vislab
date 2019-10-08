@@ -116,6 +116,10 @@ This block displays the date and links to Google Calendar.
 </p>
 {% endif %}
 
+<p id="course-material">
+  <strong>Course Materials:</strong> <a href="https://swcarpentry.github.io/sql-novice-survey/">Introduction to SQL for Data Science</a>
+</p>
+
 {% comment %}
 SPECIAL REQUIREMENTS
 
